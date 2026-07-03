@@ -10,7 +10,7 @@ Tag_Owned skull label).
 
 Authentication uses the BloodHound CE API token scheme (token ID + token key,
 HMAC-SHA256 signed requests). Create a token in the BloodHound UI:
-    Settings -> Administration -> API tokens -> Create token
+    My Profile -> API Key Management -> Create Token
 
 Examples:
     python3 bloodhound-owned.py -f creds.txt \

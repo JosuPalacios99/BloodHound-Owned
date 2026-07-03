@@ -16,7 +16,15 @@ nodes get the `Tag_Owned` label.
 
 - Python 3.6+ (standard library only — no pip installs)
 - A BloodHound CE instance you can reach
-- A BloodHound CE API token: `Settings → Administration → API tokens → Create token`
+- A BloodHound CE API token (see below)
+
+## Generating an API token
+
+In the BloodHound CE UI, open the profile icon in the left sidebar → **My Profile**,
+then click **API Key Management** to create a token. Copy the **Token ID** and
+**Token Key** — the key is shown only once.
+
+![Where to find API Key Management in the BloodHound CE profile](docs/api-token.png)
 
 ## Install
 
