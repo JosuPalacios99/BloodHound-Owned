@@ -118,4 +118,3 @@ Usernames are matched against `samaccountname` first, then the display `name`. A
 ## License
 
 MIT
-# BloodHound-Owned
