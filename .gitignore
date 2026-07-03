@@ -1,0 +1,15 @@
+# Never commit engagement data / credentials
+creds.txt
+*creds*
+*cracked*
+*owned_users*
+*.secrets
+*.pot
+*.ntds
+secretsdump*
+*.env
+.env
+
+# Python
+__pycache__/
+*.pyc
