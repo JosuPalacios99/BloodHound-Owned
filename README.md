@@ -12,11 +12,6 @@ nodes get the `Tag_Owned` label.
 > account in BloodHound, so attack-path queries (`Shortest paths from Owned`, etc.)
 > reflect real footholds.
 
-## ⚠️ Authorized use only
-
-For authorized penetration tests, red-team engagements, and lab/CTF use. Requires a
-BloodHound CE API token you legitimately hold. You are responsible for how you use it.
-
 ## Requirements
 
 - Python 3.6+ (standard library only — no pip installs)
