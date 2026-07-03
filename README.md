@@ -114,7 +114,3 @@ Usernames are matched against `samaccountname` first, then the display `name`. A
   `Tag_Owned` label in current BH CE; this tool uses the asset-group-tags API.
 - The Explore Cypher panel only renders nodes/edges — scalar/aggregate `RETURN`s
   (`count()`, `u.name`) show "No results" even when a value exists. Use the API for scalars.
-
-## License
-
-MIT
