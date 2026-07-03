@@ -26,7 +26,7 @@ BloodHound CE API token you legitimately hold. You are responsible for how you u
 ## Install
 
 ```bash
-git clone https://github.com/<you>/BloodHound-Owned.git
+git clone https://github.com/JosuPalacios99/BloodHound-Owned.git
 cd BloodHound-Owned
 chmod +x bloodhound-owned.py
 ```
@@ -118,3 +118,4 @@ Usernames are matched against `samaccountname` first, then the display `name`. A
 ## License
 
 MIT
+# BloodHound-Owned
